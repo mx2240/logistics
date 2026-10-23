@@ -1,5 +1,5 @@
 const siteConfig = {
-  companyName: "Karima Auto and Shipping Ltd",
+  companyName: "J.K. Ahiadome Transport Limited",
   tagline: "Fast. Reliable. Delivered.",
   logo: "/logo.svg",
   favicon: "/favicon.svg",
@@ -7,10 +7,10 @@ const siteConfig = {
   secondaryColor: "#07111F",
   accentColor: "#F5B942",
   lightColor: "#F7F9FC",
-  phone: "+233 50 370 7804",
-  email: "info@karima.com",
+  phone: "+233 50 903 0185",
+  email: "info@J.K. Ahiadome",
   address: "Accra, Ghana",
-  whatsapp: "+233 50 370 7804",
+  whatsapp: "+233 50 903 0185",
   socialLinks: [
     { name: "Facebook", url: "#" },
     { name: "Twitter", url: "#" },
@@ -46,7 +46,7 @@ const siteConfig = {
     { value: "24/7", label: "Tracking Support" },
   ],
   testimonials: [
-    { name: "John Mensah", role: "E-commerce Owner", content: "Karima Auto and Shipping Ltd has been reliable for all our deliveries. Highly recommended!" },
+    { name: "John Mensah", role: "E-commerce Owner", content: "J.K. Ahiadome Transport Limited has been reliable for all our deliveries. Highly recommended!" },
     { name: "Ama Owusu", role: "Business Manager", content: "Their tracking system gives us peace of mind every time we ship." },
   ],
   faq: [
@@ -62,7 +62,7 @@ const siteConfig = {
   operatingHours: "Mon - Fri: 8:00 AM - 6:00 PM, Sat: 9:00 AM - 4:00 PM",
   year: new Date().getFullYear(),
   seo: {
-    defaultTitle: "Karima Auto and Shipping Ltd - Fast. Reliable. Delivered.",
+    defaultTitle: "J.K. Ahiadome Transport Limited - Fast. Reliable. Delivered.",
     defaultDescription: "Reliable courier, delivery and logistics solutions designed to move your packages safely and efficiently.",
   },
   trackingPreview: {
