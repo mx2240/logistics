@@ -1,5 +1,5 @@
 const siteConfig = {
-  companyName: "Karima Auto and Shipping Ltd",
+  companyName: "J.K. Ahiadome Transport Limited",
   tagline: "Fast. Reliable. Delivered.",
   logo: "/logo.svg",
   favicon: "/favicon.svg",
@@ -7,10 +7,10 @@ const siteConfig = {
   secondaryColor: "#07111F",
   accentColor: "#F5B942",
   lightColor: "#F7F9FC",
-  phone: "+233 50 370 7804",
-  email: "info@karima.com",
+  phone: "+233 50 903 0185",
+  email: "info@J.K. Ahiadome",
   address: "Accra, Ghana",
-  whatsapp: "+233 50 370 7804",
+  whatsapp: "+233 50 903 0185",
   socialLinks: [
     { name: "Facebook", url: "#" },
     { name: "Twitter", url: "#" },
