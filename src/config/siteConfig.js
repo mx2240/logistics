@@ -46,7 +46,7 @@ const siteConfig = {
     { value: "24/7", label: "Tracking Support" },
   ],
   testimonials: [
-    { name: "John Mensah", role: "E-commerce Owner", content: "Karima Auto and Shipping Ltd has been reliable for all our deliveries. Highly recommended!" },
+    { name: "John Mensah", role: "E-commerce Owner", content: "J.K. Ahiadome Transport Limited has been reliable for all our deliveries. Highly recommended!" },
     { name: "Ama Owusu", role: "Business Manager", content: "Their tracking system gives us peace of mind every time we ship." },
   ],
   faq: [
@@ -62,7 +62,7 @@ const siteConfig = {
   operatingHours: "Mon - Fri: 8:00 AM - 6:00 PM, Sat: 9:00 AM - 4:00 PM",
   year: new Date().getFullYear(),
   seo: {
-    defaultTitle: "Karima Auto and Shipping Ltd - Fast. Reliable. Delivered.",
+    defaultTitle: "J.K. Ahiadome Transport Limited - Fast. Reliable. Delivered.",
     defaultDescription: "Reliable courier, delivery and logistics solutions designed to move your packages safely and efficiently.",
   },
   trackingPreview: {
